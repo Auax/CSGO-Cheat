@@ -110,7 +110,6 @@ LRESULT CALLBACK WndProc(const HWND hwnd, const UINT msg, const WPARAM wParam, c
                     screen_head_pos.y -= 10;
                     screen_head_pos.z -= 10;
                     DrawAround(memhdc, screen_neck_pos, screen_head_pos, BoxPenG);
-
                 }
             }
         }
