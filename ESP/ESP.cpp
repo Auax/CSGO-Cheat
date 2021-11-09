@@ -9,6 +9,7 @@
 #include "Memory.h"
 #include "Entity.h"
 
+// Global
 Memory memory;
 RECT WBounds;
 HWND EspHWND;
